@@ -1,16 +1,98 @@
-## Hi there 👋
+<h1 align="center">Hi, I am Justin Kahrs</h1>
 
-<!--
-**justinkahrs/justinkahrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Full stack engineer focused on AI driven development and automation.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://resume.justinkahrs.com">Homepage</a> ·
+<a href="https://github.com/justinkahrs">GitHub</a> ·
+<a href="https://linkedin.com/in/justin-kahrs">LinkedIn</a> ·
+<a href="https://blog.justinkahrs.com">Blog</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+
+I am a full stack engineer who has gone all in on AI driven development and automation. I created <a href="https://o11n.life">o11n</a>, an AI augmented IDE that helps developers ship faster with custom prompting interfaces on top of any LLM. I also run <a href="https://www.senna-automation.com">Senna Automation</a>, where I build custom AI automation and software for local businesses.
+
+Previously, I spent almost seven years at Ridecell working on fleet management and shared mobility products for large enterprises, and I have over eight years of experience building tools and dashboards for public universities.
+
+---
+
+## Current focus
+
+- Building o11n, an AI augmented IDE that lets developers modify and extend apps quickly
+- Partnering with small businesses through Senna Automation to design practical AI workflows
+- Prototyping full stack apps with Next.js, React, and TypeScript
+- Exploring ways to embed LLM driven systems into existing products without heavy onboarding
+
+---
+
+## Latest from my blog
+
+I write about AI tooling, developer experience, automation, and product engineering.
+
+<!-- BLOG-POST-LIST:START -->
+Loading latest posts from blog.justinkahrs.com...
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Selected work
+
+### o11n · AI augmented IDE
+
+An AI augmented IDE designed to help developers iterate on real projects quickly using a custom prompting interface.
+
+- Built from the ground up with a focus on real project workflows
+- Uses any LLM so teams can plug in the model that fits their needs
+- Aims to reduce onboarding time for new contributors to complex codebases
+
+👉 <a href="https://o11n.life">o11n homepage</a>
+
+---
+
+### Senna Automation LLC
+
+Boutique consulting for AI automation and software development.
+
+- Custom integrations and automation for small businesses
+- Focus on practical value rather than hype
+- Draws on experience from enterprise fleet management and internal tooling
+
+👉 <a href="https://www.senna-automation.com">Senna Automation</a>
+
+---
+
+## Experience highlights
+
+- Senior Full Stack Engineer at Amastay AI  
+  Built a proof of concept at <a href="https://demo.amastay.ai">demo.amastay.ai</a> and the main Next.js dashboard for property management.
+
+- Senior Frontend Engineer at Ridecell  
+  Shipped shared mobility and fleet management solutions for Fortune Global 500 customers. Worked on booking flows, automation workflows, and internal tools.
+
+- Senior Frontend Engineer at Indiana University  
+  Developed internal data tools and dashboards and integrated with Tableau and Denodo, using HIPAA and FERPA compliant practices.
+
+---
+
+## Tech
+
+**Fluent**
+
+React · Next.js · TypeScript · JavaScript · Node · HTML/CSS · REST APIs · UI/UX design · Jest · Webpack · SCSS · Git
+
+**Proficient**
+
+Postgres · AWS · Tailwind · CI/CD · GraphQL · Cypress · Redux · Accessibility · i18n · Figma · Python · Django
+
+---
+
+## Contact
+
+- Email: <a href="mailto:justin@justinkahrs.com">justin@justinkahrs.com</a>  
+- Location: Grand Rapids, MI  
+- More details: <a href="https://resume.justinkahrs.com">resume.justinkahrs.com</a>
