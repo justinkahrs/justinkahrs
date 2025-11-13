@@ -34,12 +34,10 @@ Previously, I spent almost seven years at Ridecell working on fleet management a
 I write about AI tooling, developer experience, automation, and product engineering.
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Building o11n: From Idea to Desktop App](https://blog.justinkahrs.com/projects/o11n/)
 - [RCS Tech Demo for Amastay AI](https://blog.justinkahrs.com/projects/rcs-demo/)
 - [Usability Testing: Sessions, Markdown Tasks, Real Feedback](https://blog.justinkahrs.com/projects/usability-testing/)
 - [Video Supercut: Automatic Cuts From Speech With Whisper](https://blog.justinkahrs.com/projects/video-supercut/)
-
 <!-- BLOG-POST-LIST:END -->
 
 ---
