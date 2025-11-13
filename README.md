@@ -5,8 +5,7 @@ Full stack engineer focused on AI driven development and automation.
 </p>
 
 <p align="center">
-<a href="https://resume.justinkahrs.com">Homepage</a> ·
-<a href="https://github.com/justinkahrs">GitHub</a> ·
+<a href="https://www.justinkahrs.com">Homepage</a> ·
 <a href="https://linkedin.com/in/justin-kahrs">LinkedIn</a> ·
 <a href="https://blog.justinkahrs.com">Blog</a>
 </p>
@@ -35,7 +34,9 @@ Previously, I spent almost seven years at Ridecell working on fleet management a
 I write about AI tooling, developer experience, automation, and product engineering.
 
 <!-- BLOG-POST-LIST:START -->
+
 Loading latest posts from blog.justinkahrs.com...
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -93,6 +94,6 @@ Postgres · AWS · Tailwind · CI/CD · GraphQL · Cypress · Redux · Accessibi
 
 ## Contact
 
-- Email: <a href="mailto:justin@justinkahrs.com">justin@justinkahrs.com</a>  
-- Location: Grand Rapids, MI  
-- More details: <a href="https://resume.justinkahrs.com">resume.justinkahrs.com</a>
+- Email: <a href="mailto:justin@justinkahrs.com">justin@justinkahrs.com</a>
+- Location: Grand Rapids, MI
+- More details: <a href="https://www.justinkahrs.com">www.justinkahrs.com</a>
