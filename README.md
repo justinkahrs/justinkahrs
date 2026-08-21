@@ -14,7 +14,7 @@ Full stack engineer focused on AI driven development and automation.
 
 ## About me
 
-I am a full stack engineer who has gone all in on AI driven development and automation. I created <a href="https://o11n.life">o11n</a>, an AI augmented IDE that helps developers ship faster with custom prompting interfaces on top of any LLM. I also run <a href="https://www.senna-automation.com">Senna Automation</a>, where I build custom AI automation and software for local businesses.
+I am a full stack engineer who has gone all in on AI driven development and automation. I created <a href="https://o11n.life">o11n</a>, a proto coding harness that helps developers ship faster with custom prompting interfaces on top of any LLM (built before OpenAI Codex was released!). I also run <a href="https://www.senna-automation.com">Senna Automation</a>, where I build custom AI automation and software for local businesses.
 
 Previously, I spent almost seven years at Ridecell working on fleet management and shared mobility products for large enterprises, and I have over eight years of experience building tools and dashboards for public universities.
 
@@ -22,7 +22,6 @@ Previously, I spent almost seven years at Ridecell working on fleet management a
 
 ## Current focus
 
-- Building o11n, an AI augmented IDE that lets developers modify and extend apps quickly
 - Partnering with small businesses through Senna Automation to design practical AI workflows
 - Prototyping full stack apps with Next.js, React, and TypeScript
 - Exploring ways to embed LLM driven systems into existing products without heavy onboarding
@@ -45,9 +44,9 @@ I write about AI tooling, developer experience, automation, and product engineer
 
 ## Selected work
 
-### o11n · AI augmented IDE
+### o11n · AI coding harness
 
-An AI augmented IDE designed to help developers iterate on real projects quickly using a custom prompting interface.
+A coding harness designed to help developers iterate on real projects quickly using a custom prompting interface.
 
 - Built from the ground up with a focus on real project workflows
 - Uses any LLM so teams can plug in the model that fits their needs
